@@ -4,11 +4,10 @@ import math
 import pandas as pd
 import streamlit as st
 
-st.image("base_logo_transparent_background.png", caption="Better Data Visuals")
+st.image("base_logo_transparent_background.png")
 
 """
-# Data Visuals
-## Holiday Data Visualization
+# Holiday Data Visualization
 
 Learn more about Data Visuals at [datavisuals.com](https://www.datavisuals.com/).
 
