@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 
-st.image("base_logo_transparent_background.png")
+st.image("base_logo_transparent_background.png", width=300)
 
 """
 # Holiday Data Visualization
